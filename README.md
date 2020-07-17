@@ -8,7 +8,7 @@
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCYZtvnpYxnaTbSuHq6FORXw">
-  <img align="left" alt="Youtube" width="30px" src="svg/youtube.svg" />
+  <img align="left" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <a href="https://www.instagram.com/praveen_kumar.k5/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
